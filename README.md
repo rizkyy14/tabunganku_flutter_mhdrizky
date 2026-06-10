@@ -1,6 +1,6 @@
 # tabunganku
 
-A new Flutter project.
+Izin pak, untuk yang saya upload di github ini tidak bisa mengupload keseluruhan isi file dan folder pak, dikarenakan ada folder-folder seperti /build, /.dart_tool, /.idea, dan lain-lain itu tidak bisa diupload pak. Saya menyarankan bapak untuk download file rar yang saya upload di drive, atau mendownload langsung file .apk yang ada di drive dikarenakan lebih lengkap dan meminimalisir terjadinya error pak.
 
 ## Getting Started
 
@@ -15,4 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
 # tabunganku_flutter_mhdrizky
